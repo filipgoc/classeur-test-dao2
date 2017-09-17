@@ -1,9 +1,3 @@
----
-title: page2
----
-
-Here is my page.
-
 # page two
 
 
