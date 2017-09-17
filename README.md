@@ -5,6 +5,8 @@
 [First Thing](#first-thing)
 [Second Thing](#second-thing)
 [Third Thing](#third-thing)
+[ONE](page1.md)
+[TWO](page2.md)
 
 ---
 
