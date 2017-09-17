@@ -1,3 +1,9 @@
+---
+title: page1
+layout: post
+---
+
+Here is my page.
 # page one
 
 

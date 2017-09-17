@@ -1,3 +1,10 @@
+---
+title: page2
+layout: post
+---
+
+Here is my page.
+
 # page two
 
 
